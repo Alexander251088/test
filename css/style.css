@@ -91,6 +91,13 @@ h6 {
 }
 
 body {
+  padding: 0px 0px 0px 0px;
+  padding: 0px px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px px 0px 0px;
+  padding: 0px 0px 0px px;
+  padding: 0px 0px px 0px;
+  padding: px 0px 0px 0px;
   color: #000000;
   font-size: 14px;
 }
